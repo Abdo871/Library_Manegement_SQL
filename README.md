@@ -1,4 +1,4 @@
-# Library_Manegement_SQL
+# Library_Management_Systems_SQL
 
 I have hands-on experience in database development and management, with a specialization in library management systems. In one of my recent projects, I designed and implemented a comprehensive database using SQL for a library.
 
